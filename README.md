@@ -2,8 +2,6 @@
 
 # 🐹 Govulncheck — Go Language Tag Parser (CLI Tool)
 
-A simple **command-line Go program** that parses and validates **BCP 47 language tags** using the `golang.org/x/text/language` package.
-
 This project demonstrates:
 
 - Building a basic **Go CLI application**
